@@ -1,2 +1,2 @@
 # google-translate-bookmarklet
-Add a bookmarllet to add the google translate bar to any site
+Add a bookmarklet to add the google translate bar to any site
